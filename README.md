@@ -1,6 +1,6 @@
 # Dajare generator
 
-Let's make Dajare generator (https://en.wikipedia.org/wiki/Dajare).
+Let's make a Dajare generator (https://en.wikipedia.org/wiki/Dajare).
 
 ## What you need to know
 
