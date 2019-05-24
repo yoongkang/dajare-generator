@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #A5B593;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #CDDFB9;
+    width: 60%;
+    height: 400px;
+    align-items: center;
+}
+
+.dajare {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+}
+
+.container-item button {
+    background-color: #D0D372;
+    color: #ffffff;
+    font-size: 32px;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
